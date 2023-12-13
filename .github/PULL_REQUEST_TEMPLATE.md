@@ -1,9 +1,5 @@
-## Describe your changes
+## Description
 
-## Issue link
+## Basecamp link
 
 ## Loom Demo / Screenshots
-
-## Checklist before requesting a review
-
-- [ ] I have performed a self-review of my code
